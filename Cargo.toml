@@ -1,0 +1,12 @@
+[package]
+name = "braid-group-rs"
+version = "0.1.0"
+edition = "2021"
+description = "Braid group mathematics: Artin generators, braid composition, inverse, word reduction in pure Rust"
+license = "MIT OR Apache-2.0"
+keywords = ["braid", "group-theory", "algebra", "artin", "mathematics"]
+categories = ["mathematics", "science"]
+repository = "https://github.com/SuperInstance/braid-group-rs"
+documentation = "https://docs.rs/braid-group-rs"
+readme = "README.md"
+authors = ["SuperInstance"]
